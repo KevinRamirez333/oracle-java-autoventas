@@ -15,8 +15,9 @@ Este proyecto es un sistema de ventas de vehículos que utiliza Oracle SQL como 
 
 ## Instrucciones
 1. Ejecutar el script `bd_autoventas.sql` en Oracle.
-2. Abrir el proyecto en NetBeans.
+2. Abrir el proyecto en NetBeans, `AutoventasBD2KevinRamirezV2`
 3. Ajustar las credenciales de conexión en el archivo `Conexion.java`.
+4. Es necesario tener el archivo ojdbc17.jar en el proyecto de java para la correcta conexion con la bd
 
 ## Autor
 Kevin Daniel Ramírez Marín
